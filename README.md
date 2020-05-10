@@ -1,15 +1,15 @@
 # ossae-okr
 Repository of Content for OSSAE OKR Sunday Schools
-Class 
-Class I
-Class II
-Class III
-Class IV
-Class V
-Class VI
-Class VII
-Class VIII
-Class IX
-Class X
-Class XI
+Class <BR>
+Class I<BR>
+Class II<BR>
+Class III<BR>
+Class IV<BR>
+Class V<BR>
+Class VI<BR>
+Class VII<BR>
+Class VIII<BR>
+Class IX<BR>
+Class X<BR>
+Class XI<BR>
 Class XII
